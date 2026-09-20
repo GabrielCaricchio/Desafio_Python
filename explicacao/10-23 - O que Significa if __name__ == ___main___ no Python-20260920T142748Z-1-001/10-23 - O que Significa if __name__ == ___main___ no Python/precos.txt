@@ -1,0 +1,5 @@
+Croissant,5.60,EUR
+Fone de Ouvido,8.80,USD
+IPhone,900,USD
+Compra Online,0.2,BTC
+Carro,12000,EUR

@@ -1,0 +1,4 @@
+Produto,Quantidade,Valor
+iphone,2,12000
+macbook,1,15000
+airpod,5,10000
