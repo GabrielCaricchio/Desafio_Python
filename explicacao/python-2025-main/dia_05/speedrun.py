@@ -1,4 +1,0 @@
-# %%
-lista = []
-dicionario = {}
-tupla = ()
