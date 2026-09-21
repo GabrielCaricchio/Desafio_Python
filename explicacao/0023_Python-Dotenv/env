@@ -1,0 +1,8 @@
+USUARIO=admin
+EMAIL=${USUARIO}@email.com
+
+DEBUG=False
+PORT=8000
+TIMEOUT=30
+DATABASE_URL="postgres://user:${USUARIO}@localhost:${PORT}/mydatabase"
+DATABASE_URL_FIXO='postgres://user:${USUARIO}@localhost:${PORT}/mydatabase'
