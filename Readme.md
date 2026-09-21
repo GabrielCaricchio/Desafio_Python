@@ -11,3 +11,15 @@
 ## Material Extra Python:
 
 [youtube.com/playlist?list=PLQaJ4OUtEH4o&amp;si=x3Fcn1zzyJRM4ZYx](https://youtube.com/playlist?list=PLQaJ4OUtEH4o&si=x3Fcn1zzyJRM4ZYx)
+
+#### Cheat code 1:
+
+[quickref.me/python](https://quickref.me/python)
+
+#### Cheat Code 2:
+
+[cheatsheets.zip/python](https://cheatsheets.zip/python#getting-started)
+
+#### Novidades das Versões do Python:
+
+https://www.nicholashairs.com/posts/major-changes-between-python-versions/
